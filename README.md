@@ -43,19 +43,6 @@ Analyzes your thoughts through 4 steps:
 4. Generates supportive message
 
 
-## Customization
-
-**Colors** (`app.py` lines 22-25):
-```css
---primary-color: #D4A574;    /* Tan */
---secondary-color: #B8956A;  /* Darker tan */
-```
-
-**AI Model** (`ai/nodes.py`):
-```python
-model="llama-3.1-8b-instant"
-```
-
 ## Troubleshooting
 
 **API Key Error**: Check `.env` file exists with correct key
