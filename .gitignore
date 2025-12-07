@@ -1,0 +1,29 @@
+# EmotionSApp - Python cache and environment files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data exports (optional - uncomment if you don't want to track exports)
+# *.json
