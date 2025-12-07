@@ -2,7 +2,7 @@
 
 **Track your feelings, one moment at a time** 💭
 
-AI-powered emotion journal using Groq AI and LangGraph.
+**🌐 [Live Demo](https://emotion-tracking-app.streamlit.app/)** | AI-powered emotion journal using Groq AI and LangGraph.
 
 ## Features
 
